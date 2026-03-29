@@ -20,7 +20,7 @@ deployment** over complexity.
 
 
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
 
 
 
