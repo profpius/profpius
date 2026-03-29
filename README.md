@@ -1,6 +1,5 @@
-# Hi, welcome to my space 👋
-
-Data Scientist & Analyst — Learn, Build, Deploy and Connect
+# Victor Pius | Data Scientist 👋
+> From raw data to deployed applications
 
 [LinkedIn](https://linkedin.com/in/victor-pius-4061a9332) · [GitHub](https://github.com/profpius)
 
