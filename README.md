@@ -19,54 +19,18 @@ deployment** over complexity.
 
 ## 🛠️ Tools & Stack
 
-
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-
- 
-
-![Pandas](https://img.shields.io/badge/Pandas-Data-150458)
-
- 
-
-![NumPy](https://img.shields.io/badge/NumPy-Array-013243)
-
- 
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellowgreen)
-
- 
-
-![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
-
- 
-
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-blueviolet)
-
- 
-
-![Streamlit](https://img.shields.io/badge/Deployed-Streamlit-red)
-
- 
-
-![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
-
- 
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Viz-blue)
-
- 
-
-![Seaborn](https://img.shields.io/badge/Seaborn-Viz-teal)
-
- 
-
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-
- 
-
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
-
+<p>
+<img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-1.3+-orange?logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-3.0+-red?logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-Explainability-blueviolet"/>
+<img src="https://img.shields.io/badge/Pandas-Data-150458?logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Array-013243?logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-Deployed-red?logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Database-lightgrey?logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github&logoColor=white"/>
+</p>
 
 
 ---
