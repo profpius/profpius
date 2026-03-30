@@ -37,5 +37,5 @@ deployment** over complexity.
 
 ## 📂 Portfolio
 
-Check out my project portfolio here:
-[Data Science Portfolio](https://github.com/profpius/Data-Science-Portfolio)
+Check out my project portfolios here:
+[Data Science Portfolio](https://github.com/profpius/Data-Science-Portfolio) | [Data Analysis Portfolio](https://github.com/profpius/Data-Analysis-Portfolio)
