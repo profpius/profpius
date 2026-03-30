@@ -1,3 +1,4 @@
+
 # Victor Pius | Data Scientist 👋
 > From raw data to deployed applications
 
@@ -22,25 +23,49 @@ deployment** over complexity.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 
+ 
 
+![Pandas](https://img.shields.io/badge/Pandas-Data-150458)
 
+ 
 
-![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
+![NumPy](https://img.shields.io/badge/NumPy-Array-013243)
 
-
-
-
-![Streamlit](https://img.shields.io/badge/Deployed-Streamlit-red)
-
-
-
+ 
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellowgreen)
 
+ 
 
+![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
 
+ 
+
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-blueviolet)
+
+ 
+
+![Streamlit](https://img.shields.io/badge/Deployed-Streamlit-red)
+
+ 
 
 ![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
+
+ 
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Viz-blue)
+
+ 
+
+![Seaborn](https://img.shields.io/badge/Seaborn-Viz-teal)
+
+ 
+
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
+ 
+
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
 
 
 
